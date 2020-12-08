@@ -15,6 +15,8 @@ intents.add(
   'GUILD_MESSAGE_REACTIONS'
 );
 const client = new Client(config, { ws: { intents: intents } });
+client.mongoose = require('./mongoose')
+
 
 // Initialize client
 function init() {
@@ -22,6 +24,7 @@ function init() {
   client.loadCommands('./src/commands');
   client.loadTopics('./data/trivia');
   client.login(client.token);
+  client.mongoose.init()
 }
 
 init();

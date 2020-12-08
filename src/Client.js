@@ -25,11 +25,6 @@ class Client extends Discord.Client {
     this.logger = require('./utils/logger.js');
 
     /**
-     * Create database
-     */
-    this.db = require('./utils/db.js');
-
-    /**
      * All possible command types
      * @type {Object}
      */
