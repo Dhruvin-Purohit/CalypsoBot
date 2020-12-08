@@ -6,6 +6,7 @@
   "serverLogId": "server_log_ID_here",
   "apiKeys": {
     "catApi": "your_API_key_here",
-    "googleApi": "your_API_key_here"
-  }
+    "googleApi": "your_API_key_here(YouTube v3)"
+  },
+  "mongoDBURI": ""
 }

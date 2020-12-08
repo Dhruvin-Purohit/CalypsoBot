@@ -143,3 +143,4 @@ Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) li
 * **CommradeFido#5286** - *All art and graphics*
 * **Red Discord Bot** - *Initial trivia* - [github](https://github.com/Cog-Creators/Red-DiscordBot/blob/V3/develop/README.md#join-the-community)
 * **Threebow** - *Ideas and tutorials* - [github](https://github.com/Threebow)
+* **Dhruvin Purohit** - *the whole rewrite part* [github](https://github.com/Dhruvin-Purohit)

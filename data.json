@@ -1,0 +1,12 @@
+{
+    "Calypso": {
+        "images": {
+            "Calypso": "https://raw.githubusercontent.com/sabattle/CalypsoBot/develop/data/images/Calypso.png",
+            "CalypsoFullSignature": "https://raw.githubusercontent.com/sabattle/CalypsoBot/develop/data/images/Calypso_Full_Signature.png",
+            "CalypsoTtitle": "https://raw.githubusercontent.com/sabattle/CalypsoBot/develop/data/images/Calypso_Title.png",
+            "ClaypsoWIPi": "https://raw.githubusercontent.com/sabattle/CalypsoBot/develop/data/images/Calypso_WIP.png",
+            "CalypsoWIPii": "https://raw.githubusercontent.com/sabattle/CalypsoBot/develop/data/images/Calypso_WIP_2.png",
+            "ClaypsoWIPiii": "https://raw.githubusercontent.com/sabattle/CalypsoBot/develop/data/images/Calypso_WIP_3.png"
+        }
+    }
+}
